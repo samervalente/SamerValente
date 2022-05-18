@@ -1,6 +1,6 @@
 ### <Hello World!> 🌎
 
-Me chamo Samer Valente, mas você pode me chamar de **Sam**. Atualmente sou técnico em informática pelo Instituo Federal do Pará (IFPA) e estudante de Engenharia de Software na Driven Education.
+My name is Samer Valente, but you can call me **Sam**. I am currently a computer technician at the Federal Institute of Pará (IFPA) and a Software Engineering student at Driven Education.
 
 <div align="center">
   <a href="https://github.com/samervalente">
