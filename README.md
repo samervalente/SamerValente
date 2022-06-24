@@ -1,6 +1,6 @@
 ### <Hello World!> 🌎
 
-My name is Samer Valente, but you can call me **Sam**. I am currently a computer technician at the Federal Institute of Pará (IFPA) and a Full Stack Web Developer student at Driven Education.
+My name is Samer Valente, but you can call me **Sam**. I am currently a Full Stack Web Developer student at Driven Education.
 
 <div align="center">
   <a href="https://github.com/samervalente">
