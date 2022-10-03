@@ -4,14 +4,12 @@ My name is Samer Valente. I am currently a Full Stack Web Developer student at D
 
 <div align="center">
   <a href="https://github.com/samervalente">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samervalente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samervalente&layout=compact&langs_count=7&theme=dracula"/>
-  
- ### Tech Skills
- 
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samervalente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samervalente&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
+  
+### Tech Skills
+I constantly seek to improve myself in various areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 ### Languages
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
