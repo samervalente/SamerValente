@@ -9,7 +9,7 @@ My name is Samer Valente. I am currently a Full Stack Web Developer student at D
 </div>
   
 ### Tech Skills
-I constantly seek to improve myself in various areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+I constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 ### Languages
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
