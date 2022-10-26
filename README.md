@@ -37,7 +37,7 @@ I constantly seek to improve myself in many areas, from hardskills to softskills
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 
 
-### Feel free to contact me 😄
+### Contact
 <div align="left">
   
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samervalente@gmail.com)
