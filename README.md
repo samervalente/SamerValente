@@ -1,6 +1,6 @@
 ### <Hello World!> 🌎
 
-My name is Samer Valente. I'm currently a Full Stack Web Developer student at Driven Education. I constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
 <div align="center">
   <a href="https://github.com/samervalente">
