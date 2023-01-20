@@ -9,13 +9,13 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
 </div> -->
 
 
-### Languages
+#### My main programming languages
   <div>
        <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=black&logo=javascript&logoColor=yellow" />
     <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC" />
   </div>
   
-### Front-End Skills
+#### Front-End Skills
   <div>
     <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3-black.svg?&style=for-the-badge&color=FF9900&logo=CSS3&logoColor=black"/>
     <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=FF9900&logo=HTML5&logoColor=black"/>
@@ -25,7 +25,7 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
   
   </div>
   
-### Back-end Skills
+#### Back-end Skills
   <div> 
     <img src="https://img.shields.io/badge/Node.js-316192?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-316192?style=for-the-badge&logo=express&logoColor=white" />
@@ -38,7 +38,7 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
     
   </div>
 
-### Deploy and Architecture
+#### Deploy and Architecture
   <div> 
     <img style='margin: 5px;' src="https://img.shields.io/badge/Heroku%20-%2320232a.svg?&style=for-the-badge&color=430098&logo=Heroku&logoColor=white"/>     <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=430098&logo=Vercel&logoColor=white"/>
     <img style='margin: 5px;' src="https://img.shields.io/badge/Amazon_AWS-430098?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -46,14 +46,14 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
     <img style='margin: 5px;' src="https://img.shields.io/badge/Docker-430098?style=for-the-badge&logo=docker&logoColor=white"/>
   </div>
   
-### Tools
+#### Tools
  <div> 
     <img style='margin: 5px;' src="https://img.shields.io/badge/Slack-gray?style=for-the-badge&logo=slack&logoColor=white"/>     
     <img style='margin: 5px;' src="https://img.shields.io/badge/Trello-gray?style=for-the-badge&logo=trello&logoColor=white"/>
     <img style='margin: 5px;' src="https://img.shields.io/badge/GitHub_Actions-gray?style=for-the-badge&logo=github-actions&logoColor=white"/>
   </div>
  
-### Contact
+#### Contact
 <div align="left">
   
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samervalente@gmail.com)
