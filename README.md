@@ -11,8 +11,8 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
 
 ### Languages
   <div>
-       <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=000000" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+       <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=black&logo=javascript&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC" />
   </div>
   
 ### Front-End Skills
