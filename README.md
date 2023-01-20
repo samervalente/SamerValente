@@ -54,6 +54,7 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
     <img style='margin: 5px;' src="https://img.shields.io/badge/Slack-gray?style=for-the-badge&logo=slack&logoColor=white"/>     
     <img style='margin: 5px;' src="https://img.shields.io/badge/Trello-gray?style=for-the-badge&logo=trello&logoColor=white"/>
     <img style='margin: 5px;' src="https://img.shields.io/badge/GitHub_Actions-gray?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
   </div>
  
 #### Contact
@@ -61,6 +62,14 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
   
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samervalente@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samervalente/)
+</div>
+
+<div align="right">
+    <div align="center"> 
+  <img width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/1751/1751898.png" />
+
+ 
+  </div>
 </div>
 
   
