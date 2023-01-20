@@ -17,33 +17,33 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
   
 ### Front-End Skills
   <div>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&color=1572B6&logo=CSS3&logoColor=ffffff"/>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=E34F26&logo=HTML5&logoColor=ffffff"/>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-     <img style='margin: 5px;' src="https://img.shields.io/badge/styled components%20-%2320232a.svg?&style=for-the-badge&color=DB7093&logo=styled-            components&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+    <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3-black.svg?&style=for-the-badge&color=black&logo=CSS3&logoColor=blue"/>
+    <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=black&logo=HTML5&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=green" />
+  
   </div>
   
 ### Back-end Skills
   <div> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=red" />
+    <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+    <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=316192" />
+    <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=3982CE" />
+    <img src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=C21325" />
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
     
     
   </div>
 
 ### Deploy and Architecture
   <div> 
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Heroku%20-%2320232a.svg?&style=for-the-badge&color=430098&logo=Heroku&logoColor=ffffff"/>     <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img style='margin: 5px;' src="https://img.shields.io/badge/Heroku%20-%2320232a.svg?&style=for-the-badge&color=black&logo=Heroku&logoColor=430098"/>     <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=black&logo=Vercel&logoColor=ffffff"/>
+    <img style='margin: 5px;' src="https://img.shields.io/badge/Amazon_AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+    <img style='margin: 5px;' src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx&logoColor=009639"/>
+    <img style='margin: 5px;' src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2CA5E0"/>
   </div>
   
 ### Tools
