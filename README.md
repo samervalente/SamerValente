@@ -1,4 +1,4 @@
-### <Hello World!> 🌎
+### <Hello, World!> 🌎
 
 My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
@@ -11,17 +11,20 @@ My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm const
 
 #### My main programming languages
   <div>
-       <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=black&logo=javascript&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC" />
+       <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=black&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
   
 #### Front-End Skills
   <div>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3-black.svg?&style=for-the-badge&color=FF9900&logo=CSS3&logoColor=black"/>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=FF9900&logo=HTML5&logoColor=black"/>
-    <img src="https://img.shields.io/badge/React-FF9900?style=for-the-badge&logo=react&logoColor=black" />
-   <img src="https://img.shields.io/badge/Next-FF9900?style=for-the-badge&logo=next.js&logoColor=black" />
-    <img src="https://img.shields.io/badge/Cypress-FF9900?style=for-the-badge&logo=cypress&logoColor=black" />
+    <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3-black.svg?&style=for-the-badge&color=FF9900&logo=CSS3&logoColor=white"/>
+    <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=FF9900&logo=HTML5&logoColor=white"/>
+    <img style='margin: 5px;' src="https://img.shields.io/badge/Material%20UI-FF9900?style=for-the-badge&logo=mui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-FF9900?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next-FF9900?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cypress-FF9900?style=for-the-badge&logo=cypress&logoColor=white" />
+  
+ 
   
   </div>
   
