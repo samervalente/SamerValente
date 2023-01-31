@@ -1,6 +1,6 @@
 ### <Hello, World!> 🌎
 
-I'm Samer Valente, a Full Stack Web Developer. I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+👨🏻 I'm Samer Valente, a Full Stack Web Developer. I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
 <!-- <div align="center">
   <a href="https://github.com/samervalente">
@@ -8,9 +8,9 @@ I'm Samer Valente, a Full Stack Web Developer. I'm constantly seek to improve my
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samervalente&layout=compact&langs_count=7&theme=dracula" />
 </div> -->
 
-#### 🔑 Keywords: Minimalist and Efficiency
+#### 🔑 Keywords: Minimalism and Efficiency
 
-#### 💻 main programming languages
+#### 💻 Main programming languages
   <div>
        <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=black&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
