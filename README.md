@@ -8,6 +8,7 @@ I'm Samer Valente, a Full Stack Web Developer. I'm constantly seek to improve my
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samervalente&layout=compact&langs_count=7&theme=dracula" />
 </div> -->
 
+#### My Keywords: Minimalist and Efficiency
 
 #### My main programming languages
   <div>
