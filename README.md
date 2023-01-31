@@ -1,14 +1,14 @@
-### <Hello, World!> 🌎
+### <Hello, World! I'm Samer Valente> 🌎
 
-👨🏻 I'm Samer Valente, a Full Stack Web Developer. I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+👨🏻 A Full Stack Web Developer and i'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
-<!-- <div align="center">
+🔑 Keywords: Minimalism and Efficiency
+
+<div align="center">
   <a href="https://github.com/samervalente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samervalente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samervalente&layout=compact&langs_count=7&theme=dracula" />
-</div> -->
-
-#### 🔑 Keywords: Minimalism and Efficiency
+</div>
 
 #### 💻 Main programming languages
   <div>
