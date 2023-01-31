@@ -1,6 +1,6 @@
 ### <Hello, World!> 🌎
 
-My name is Samer Valente. I'm currently a Full Stack Web Developer and I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+I'm Samer Valente, a Full Stack Web Developer. I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
 <!-- <div align="center">
   <a href="https://github.com/samervalente">
