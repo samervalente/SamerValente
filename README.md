@@ -1,6 +1,6 @@
-### <Hello, World! I'm Samer Valente> 🌎
+### <Hello, World! I'm Samer Valente. A Full Stack Web Developer> 🌎
 
-👨🏻 A Full Stack Web Developer and i'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+👨🏻 I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
 🔑 Keywords: Minimalism and Efficiency
 
