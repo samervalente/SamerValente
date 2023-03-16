@@ -8,12 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samervalente&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
-#### 💻 Main programming languages
-  <div>
-       <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=black&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
-  </div>
-  
 #### Front-End Skills
   <div>
     <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3-black.svg?&style=for-the-badge&color=FF9900&logo=CSS3&logoColor=white"/>
@@ -22,9 +16,6 @@
     <img src="https://img.shields.io/badge/React-FF9900?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Next-FF9900?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Cypress-FF9900?style=for-the-badge&logo=cypress&logoColor=white" />
-  
- 
-  
   </div>
   
 #### Back-end Skills
