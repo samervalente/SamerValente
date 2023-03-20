@@ -2,11 +2,11 @@
 
 👨🏻 I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
- <div align="center">
+### Github Stats
   <a href="https://github.com/samervalente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samervalente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samervalente&layout=compact&langs_count=7&theme=dracula" />
-</div>
+
  
 #### Main Programming Languages 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,java&perline=4)](https://skillicons.dev)
