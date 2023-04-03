@@ -1,4 +1,4 @@
-### <Hello, World! I'm Samer Valente. A Full Stack Web Developer> 🌎
+### <Hello, World! I'm Samer Valente. A Full Stack Developer> 🌎
 
 👨🏻 I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
