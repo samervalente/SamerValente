@@ -1,6 +1,6 @@
 ### <Hello, World! I'm Samer Valente. A Full Stack Developer> 🌎
 
-👨🏻 I'm constantly seek to improve myself in many areas, from hardskills to softskills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+👨🏻 I am constantly looking to improve myself in several areas, from technical to behavioral skills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
 
 ### Github Stats
   <a href="https://github.com/samervalente">
