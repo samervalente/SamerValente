@@ -1,6 +1,6 @@
 ### <Hello, World! I'm Samer Valente. A Software Developer> 🌎
 
-👨🏻 I am constantly looking to improve myself in several areas, from technical to behavioral skills, such as communication and emotional intelligence. Feel free if you want to contact me to share experiences!
+👨🏻 I build things.
 
 ### Github Stats
   <a href="https://github.com/samervalente">
