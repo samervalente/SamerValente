@@ -1,6 +1,7 @@
 ### <Hello, World! I'm Samer Valente. A Software Developer> 🌎
 
-👨🏻 I build things.
+👨🏻 Full Stack Developer - Backend Heavy
+🛠️ I build efficient web and backend systems 
 
 ### Github Stats
   <a href="https://github.com/samervalente">
