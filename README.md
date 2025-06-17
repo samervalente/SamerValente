@@ -1,4 +1,4 @@
-### Hello, World! I'm Samer Valente. A Software Developer
+### Hello, I'm Samer Valente. A Software Developer
 
 👨🏻 Full Stack Developer <br/> 
 🛠️ I build efficient web and backend systems 
